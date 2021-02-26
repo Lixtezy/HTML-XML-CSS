@@ -1,0 +1,39 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE Schedule SYSTEM "lessons_DTD.dtd">
+<Schedule>
+    <lesson id = "1">
+	    <Name>Введение в базы данных</Name>
+	    <Teacher>
+		   <Name>Денис</Name>
+		   <LastName>Ямщиков</LastName>
+		   <PatronymicName>Викторович</PatronymicName>
+		</Teacher>
+		<StartTraining>28.09.2020</StartTraining>
+		<EndTraining>09.10.2020</EndTraining>
+        <NumberHours>30</NumberHours>
+    </lesson>
+
+    <lesson id = "2">
+	    <Name>Технологии программирования</Name>
+	    <Teacher>
+		   <Name>Антон</Name>
+		   <LastName>Смольянинов</LastName>
+		   <PatronymicName>Валентинович</PatronymicName>
+		</Teacher>
+		<StartTraining>13.10.2020</StartTraining>
+		<EndTraining>30.10.2020</EndTraining>
+        <NumberHours>50</NumberHours>
+    </lesson>
+
+    <lesson id = "3">
+	    <Name>Программирование на Python</Name>
+	    <Teacher>
+		   <Name>Никита</Name>
+		   <LastName>Осипов</LastName>
+		   <PatronymicName>Алексеевич</PatronymicName>
+		</Teacher>
+		<StartTraining>25.01.2021</StartTraining>
+		<EndTraining>05.02.2021</EndTraining>
+        <NumberHours>40</NumberHours>
+    </lesson>
+</Schedule>

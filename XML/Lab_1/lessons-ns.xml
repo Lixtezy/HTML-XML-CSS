@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<Schedule xmlns:ns = "http://www.itmo.ru/xml/lessons" xmlns:lit = "https://www.elibrary.ru/defaultx.asp">
+    <ns:lesson id = "1">
+	    <ns:Name>Введение в базы данных</ns:Name>
+	    <ns:Teacher>
+		   <Name>Денис</Name>
+		   <LastName>Ямщиков</LastName>
+		   <PatronymicName>Викторович</PatronymicName>		
+		</ns:Teacher>
+		<ns:StartTraining>28.09.2020</ns:StartTraining>
+		<ns:EndTraining>09.10.2020</ns:EndTraining>
+        <ns:NumberHours>30</ns:NumberHours>
+		<lit:Literature>Базы данных</lit:Literature>
+    </ns:lesson>
+	
+    <ns:lesson id = "2">
+	    <ns:Name>Технологии программирования</ns:Name>
+	    <ns:Teacher>
+		   <Name>Антон</Name>
+		   <LastName>Смольянинов</LastName>
+		   <PatronymicName>Валентинович</PatronymicName>		
+		</ns:Teacher>
+		<ns:StartTraining>13.10.2020</ns:StartTraining>
+		<ns:EndTraining>30.10.2020</ns:EndTraining>
+        <ns:NumberHours>50</ns:NumberHours>
+		<lit:Literature>Технологии программирования</lit:Literature>
+    </ns:lesson>
+
+    <ns:lesson id = "3">
+	    <ns:Name>Программирование на Python</ns:Name>
+	    <ns:Teacher>
+		   <Name>Никита</Name>
+		   <LastName>Осипов</LastName>
+		   <PatronymicName>Алексеевич</PatronymicName>		
+		</ns:Teacher>
+		<ns:StartTraining>25.01.2021</ns:StartTraining>
+		<ns:EndTraining>05.02.2021</ns:EndTraining>
+        <ns:NumberHours>40</ns:NumberHours>
+		<lit:Literature>Программирование на Python</lit:Literature>
+    </ns:lesson>
+</Schedule>
+
+
+

@@ -1,0 +1,13 @@
+<!ELEMENT Schedule (lesson+)>
+<!ELEMENT lesson (Name, Teacher, StartTraining, EndTraining, NumberHours)> 
+<!ELEMENT Name (Name, LastName, PatronymicName)> 
+<!ELEMENT Teacher (#PCDATA)> 
+    <!ELEMENT Name (#PCDATA)>
+	<!ELEMENT LastName (#PCDATA)>
+	<!ELEMENT PatronymicName (#PCDATA)>
+<!ELEMENT StartTraining (#PCDATA)> 
+<!ELEMENT EndTraining (#PCDATA)> 
+<!ELEMENT NumberHours (#PCDATA)>
+
+
+
